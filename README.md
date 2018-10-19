@@ -96,6 +96,8 @@ Everything devrel-oriented that you consider valuable for sharing within the com
 - [Write the Docs](http://www.writethedocs.org/) <br>
 - [API the Docs](https://apithedocs.org/) <br>
 - [MLH Hackcon](https://hackcon.mlh.io/) <br>
+- [Twilio Signal](https://signal.twilio.com/) <br>
+- [GitHub Universe](https://githubuniverse.com/) <br>
 
 
 ### Newsletters
