@@ -7,9 +7,11 @@
 <img src="https://img.shields.io/badge/build%20with-Markdown-brightgreen.svg"/>
 </p>
 
-This repo is our mutual source of  devrel-related knowledge. Having seen something valuable regarding developer advocacy recently? Read great article on developer evangelism yesterday? Maybe you've been to a nice devrel event?
+This repo is our mutual source of devrel-related knowledge. Have you seen something valuable regarding developer advocacy recently? Did you read great article on developer evangelism yesterday? Maybe you've attended a nice devrel event?
 
-Everything devrel-oriented that you consider valuable for sharing within the community that also do not violate our [Code of Conduct](https://github.com/DevrelSpace/Code-of-Conduct), can be added to appropriate sections by making a pull request. Happy sharing!
+Everything devrel-oriented that you consider valuable for sharing within the community, that also does not violate our [Code of Conduct](https://github.com/DevrelSpace/Code-of-Conduct), can be added to appropriate sections by making a pull request.
+
+Happy sharing!
 
 ## Table of contents
 
