@@ -42,6 +42,10 @@ Happy sharing!
 - [What in the world is a developer evangelist? - Michelle Nickolaisen](https://blog.clubhouse.io/what-in-the-world-is-a-developer-evangelist-31e983c868cf) <br>
 - [Building Developer Relations Teams - Heavybit Industries](https://medium.com/@heavybit/building-developer-relations-teams-4bd7be7643e7) <br>
 
+### Knowledge bases
+
+- [Open Source](https://opensource.guide/) <br>
+
 ### Videos
 
 - [Building the next developer experiences - Romain Huet](https://www.youtube.com/watch?v=v03CKxhol8Q&t=29s) <br>
