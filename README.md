@@ -16,7 +16,9 @@ Happy sharing!
 ## Table of contents
 
 * [Articles](#articles) <br>
+* [KnowledgeBases](#knowledgebases) <br>
 * [Videos](#videos) <br>
+* [Podcasts](#podcasts) <br>
 * [Communities](#communities) <br>
 * [Conferences](#conferences) <br>
 * [Newsletters](#newsletters) <br>
@@ -42,7 +44,7 @@ Happy sharing!
 - [What in the world is a developer evangelist? - Michelle Nickolaisen](https://blog.clubhouse.io/what-in-the-world-is-a-developer-evangelist-31e983c868cf) <br>
 - [Building Developer Relations Teams - Heavybit Industries](https://medium.com/@heavybit/building-developer-relations-teams-4bd7be7643e7) <br>
 
-### Knowledge bases
+### KnowledgeBases
 
 - [Open Source](https://opensource.guide/) <br>
 
@@ -80,6 +82,10 @@ Happy sharing!
 - [Reactive versus proactive strategies for developer relations - Jessica West](https://www.youtube.com/watch?v=zRvruORDsiw) <br>
 - [Tackling technical debt in the docs - Louise Fahey](https://www.youtube.com/watch?v=AxETZU7sFvQ&t=442s) <br>
 - [Measuring the impact of your documentation - Liam Keegan](https://www.youtube.com/watch?v=48Ga-0_39-o&t=1024s) <br>
+
+### Podcasts
+
+- [The Truth About Developer Relations with Simona Cotin, Tara Manicsic, Tierney Cyren, and Tracy Lee](https://dev.to/modernweb/s05e03-the-truth-about-developer-relations-with-simona-cotin-tara-manicsic-tierney-cyren-and-tracy-lee?mc_cid=15ea5b921f&mc_eid=480cdc3001) <br>
 
 ### Communities
 
