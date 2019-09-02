@@ -4,7 +4,6 @@
 <img src="https://img.shields.io/badge/DevRel-with%20%E2%9D%A4%EF%B8%8F-brightgreen.svg"/>
 <img src="https://img.shields.io/badge/community-driven-brightgreen.svg"/>
 <img src="https://img.shields.io/badge/only-DevRel%20meat-brightgreen.svg"/>
-<img src="https://img.shields.io/badge/build%20with-Markdown-brightgreen.svg"/>
 </p>
 
 This repo is our mutual source of devrel-related knowledge. Have you seen something valuable regarding developer advocacy recently? Did you read great article on developer evangelism yesterday? Maybe you've attended a nice devrel event?
