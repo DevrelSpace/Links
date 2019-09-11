@@ -81,6 +81,7 @@ Happy sharing!
 - [Reactive versus proactive strategies for developer relations - Jessica West](https://www.youtube.com/watch?v=zRvruORDsiw) <br>
 - [Tackling technical debt in the docs - Louise Fahey](https://www.youtube.com/watch?v=AxETZU7sFvQ&t=442s) <br>
 - [Measuring the impact of your documentation - Liam Keegan](https://www.youtube.com/watch?v=48Ga-0_39-o&t=1024s) <br>
+- [On the Importance of Building Community and How to Get Started - P. Nigel Brown](https://www.youtube.com/watch?v=CwTuAyviW4c) <br>
 
 ### Podcasts
 
