@@ -15,12 +15,12 @@ Happy sharing!
 ## Table of contents
 
 * [Articles](#articles) <br>
-* [KnowledgeBases](#knowledgebases) <br>
 * [Videos](#videos) <br>
 * [Podcasts](#podcasts) <br>
 * [Communities](#communities) <br>
 * [Conferences](#conferences) <br>
 * [Newsletters](#newsletters) <br>
+* [KnowledgeBases](#knowledgebases) <br>
 
 -------------------------------------------------
 
@@ -43,9 +43,6 @@ Happy sharing!
 - [What in the world is a developer evangelist? - Michelle Nickolaisen](https://blog.clubhouse.io/what-in-the-world-is-a-developer-evangelist-31e983c868cf) <br>
 - [Building Developer Relations Teams - Heavybit Industries](https://medium.com/@heavybit/building-developer-relations-teams-4bd7be7643e7) <br>
 
-### KnowledgeBases
-
-- [Open Source](https://opensource.guide/) <br>
 
 ### Videos
 
@@ -83,12 +80,14 @@ Happy sharing!
 - [Measuring the impact of your documentation - Liam Keegan](https://www.youtube.com/watch?v=48Ga-0_39-o&t=1024s) <br>
 - [On the Importance of Building Community and How to Get Started - P. Nigel Brown](https://www.youtube.com/watch?v=CwTuAyviW4c) <br>
 
+
 ### Podcasts
 
 - [The Truth About Developer Relations with Simona Cotin, Tara Manicsic, Tierney Cyren, and Tracy Lee](https://dev.to/modernweb/s05e03-the-truth-about-developer-relations-with-simona-cotin-tara-manicsic-tierney-cyren-and-tracy-lee?mc_cid=15ea5b921f&mc_eid=480cdc3001) <br>
 - [DevRel Radio](http://devrelrad.io/) <br>
 - [Community Pulse](http://communitypulse.io/) <br>
 - [Community Signal](http://www.communitysignal.com/) <br>
+
 
 ### Communities
 
@@ -119,3 +118,8 @@ Happy sharing!
 
 - [DevRel weekly](http://devrelweekly.com/) <br>
 - [DevRel Newsletter](https://newsletter.devrel.net/) <br>
+
+
+### KnowledgeBases
+
+- [Open Source](https://opensource.guide/) <br>
