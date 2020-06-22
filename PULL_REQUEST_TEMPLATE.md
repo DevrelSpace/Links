@@ -6,7 +6,7 @@ Please include a summary of the change you are making. Please also include relev
 
 Please mark the correct option.
 
-- [ ] New feature (non-breaking makrdown change which adds functionality)
+- [ ] New feature (non-breaking markdown change which adds functionality)
 - [ ] Breaking markdown change (fix or feature that would cause existing functionality to not work as expected)
 
 ## Checklist:
