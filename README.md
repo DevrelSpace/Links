@@ -83,7 +83,6 @@ Happy sharing!
 
 ### Podcasts
 
-- [The Truth About Developer Relations with Simona Cotin, Tara Manicsic, Tierney Cyren, and Tracy Lee](https://dev.to/modernweb/s05e03-the-truth-about-developer-relations-with-simona-cotin-tara-manicsic-tierney-cyren-and-tracy-lee?mc_cid=15ea5b921f&mc_eid=480cdc3001) <br>
 - [DevRel Radio](http://devrelrad.io/) <br>
 - [Community Pulse](http://communitypulse.io/) <br>
 - [Community Signal](http://www.communitysignal.com/) <br>
