@@ -8,15 +8,15 @@ Please provide a brief summary of the issue you report.
 
 ## Expected behaviour
 
-Please tell me what you think should happen.
+Please tell us what you think should happen.
 
 ## Actual behaviour
 
-Please tell me what actually happens.
+Please tell us what actually happens.
 
 ## Steps to reproduce the problem
 
-Please tell me what I should do to reproduce the issue.
+Please tell us what we should do to reproduce the issue.
 
 ## Screenshots
 
