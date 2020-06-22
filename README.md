@@ -2,8 +2,8 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/DevRel-with%20%E2%9D%A4%EF%B8%8F-brightgreen.svg"/>
-<img src="https://img.shields.io/badge/community-driven-brightgreen.svg"/>
-<img src="https://img.shields.io/badge/only-DevRel%20meat-brightgreen.svg"/>
+<img src="https://img.shields.io/badge/Community-Driven-brightgreen"/>
+<img src="https://img.shields.io/badge/Only-DevRel%20Meat-brightgreen"/>
 </p>
 
 Have you seen something valuable regarding developer advocacy recently? Did you read great article on developer evangelism yesterday? Maybe you've attended a nice devrel event or listened to a valuable podcast?
