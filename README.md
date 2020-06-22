@@ -1,4 +1,4 @@
-# Resources
+# Links
 
 <p align="left">
 <img src="https://img.shields.io/badge/DevRel-with%20%E2%9D%A4%EF%B8%8F-brightgreen.svg"/>
