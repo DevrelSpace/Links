@@ -8,7 +8,7 @@
 
 Have you seen something valuable regarding developer advocacy recently? Did you read great article on developer evangelism yesterday? Maybe you've attended a nice devrel event or listened to a valuable podcast?
 
-Everything devrel-oriented that you consider valuable for sharing within the community, that also does not violate our [Code of Conduct](https://github.com/DevrelSpace/Code-of-Conduct), can be added to appropriate sections by making a pull request.
+Everything devrel-oriented that you consider valuable for sharing within the community, that also does not violate our [Code of Conduct](https://github.com/DevrelSpace/Devrel-Space/blob/master/CODE_OF_CONDUCT.md), can be added to appropriate sections by making a pull request.
 
 Happy sharing!
 
